@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Олеся Титовская](https://up.htmlacademy.ru/javascript/17/user/983351).
-* Наставник: `Дмитрий Прибитков https://htmlacademy.ru/profile/id1061259`.
+* Наставник: [Дмитрий Прибитков](https://htmlacademy.ru/profile/id1061259).
 
 ---
 
